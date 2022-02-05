@@ -1,0 +1,15 @@
+.btn{
+        background-color: rgb(4, 13, 134);
+        color: rgb(250, 248, 248);
+        margin-top: 20px;
+        margin-left: 90px;
+        padding: 5px 5px;
+        text-align: center;
+        font-size: 13px;
+        border-radius: 10px;
+}
+.tt{
+    color:white;
+    margin:5px;
+    padding:5px;
+}
