@@ -1,4 +1,4 @@
-Screenshots:
+<h1 align="centre">Screenshots:</h1>
 
 - MAIN PAGE:
 ![Screenshot (1948)](https://user-images.githubusercontent.com/63870023/152684188-6b3e88b5-69a7-4f20-a5c2-128ebc409a75.png)
