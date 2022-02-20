@@ -12,3 +12,9 @@
 - AFTER SEARCHING FOR YEAR 2022 EXPENSES
 
 ![Screenshot (1993)](https://user-images.githubusercontent.com/63870023/154839112-f4ed9814-6045-4c24-b835-cc4b9525fdfd.png)
+
+- ERROR VALIDATION
+![Screenshot (1994)](https://user-images.githubusercontent.com/63870023/154841896-7f5b5648-05af-42e6-8c71-bda27b1b307e.png)
+
+
+![Screenshot (1995)](https://user-images.githubusercontent.com/63870023/154841902-f1cdf954-0835-4dac-8e55-e4450725feb1.png)
