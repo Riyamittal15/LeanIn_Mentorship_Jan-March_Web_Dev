@@ -11,7 +11,7 @@
 ![Screenshot (2015)](https://user-images.githubusercontent.com/63870023/157094609-49fd2f71-c63f-476e-8277-fa19fe457b7f.png)
 - NUTRITIONS LIST FOR 1 CUP OF MILK
 
-[Screenshot (2018)](https://user-images.githubusercontent.com/63870023/157094659-d149c2ec-26c7-41a1-8b63-643c497e6911.png)
+![Screenshot (2018)](https://user-images.githubusercontent.com/63870023/157095616-b3df26c1-2cf4-47b7-adbe-e0b39d200f00.png)
 - NUTRITIONS LIST FOR 1 LARGE PIZZA
 
 ![Screenshot (2017)](https://user-images.githubusercontent.com/63870023/157095492-6438a41d-b54b-485c-bb37-1eb5612c752e.png)
