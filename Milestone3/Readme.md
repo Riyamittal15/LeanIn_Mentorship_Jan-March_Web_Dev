@@ -14,7 +14,8 @@
 [Screenshot (2018)](https://user-images.githubusercontent.com/63870023/157094659-d149c2ec-26c7-41a1-8b63-643c497e6911.png)
 - NUTRITIONS LIST FOR 1 LARGE PIZZA
 
-![Screenshot (2018)](https://user-images.githubusercontent.com/63870023/157095182-706205b0-fd20-4c45-a05c-b7428b7e3e4e.png)
+![Screenshot (2017)](https://user-images.githubusercontent.com/63870023/157095492-6438a41d-b54b-485c-bb37-1eb5612c752e.png)
+
 - NUTRITIONS LIST FOR 1 SMALL PIZZA
 
 ![Screenshot (2014)](https://user-images.githubusercontent.com/63870023/157094842-800cb2b6-f22e-4e73-a520-2272eee653d3.png)
